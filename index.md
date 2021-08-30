@@ -1,32 +1,13 @@
 ##  Marissa's First CS193 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
 - I like how it seems more hands on
 - I like how CS 193 is ran by students who have a better idea of what we need
 - I like that the wifi doesnt want to work for the first 10 minutes so i get to play the no internet dinosaur game
 
-1. Numbered
-2. List
+![Borgir picture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtoZW65rksYY&psig=AOvVaw27Ooqa_9_65sxCLiGfpfrX&ust=1630440281213000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCJD03cDF2fICFQAAAAAdAAAAABAD)
+[I really like this video you should watch it](https://www.youtube.com/watch?v=ixFyUzPcHz0)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
@@ -36,3 +17,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```
