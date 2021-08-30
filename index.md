@@ -7,7 +7,7 @@
 ![Borgir picture](https://i.redd.it/6f3u0sb2jv671.jpg)
 [I really like this video you should watch it](https://www.youtube.com/watch?v=ixFyUzPcHz0)
 
-```
+```markdown
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
